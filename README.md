@@ -40,9 +40,8 @@ The code configures an analog smoke detector input and controls an RGB LED and b
 
 ## 📸 Circuit Preview
 
-![Circuit Preview](images/gasguard_circuit.png)
+![Circuit Preview](https://github.com/MadhurToshniwal/GasGuard-Tinkercad/blob/main/gasguard_circuit.png)
 
-> *(Make sure this image is stored in the `images/` folder of your repo)*
 
 ---
 
@@ -66,6 +65,6 @@ Built and tested using
 
 **Madhur Sunilkumar Toshniwal**  
 🎓 B.Tech, Vellore Institute of Technology  
-📧 [your.email@example.com](mailto:your.email@example.com) • 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • 🐙 [GitHub](https://github.com/yourusername)
+📧 [your.email@example.com](mailto:madhurtoshniwal03@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/madhur-toshniwal) • 🐙 [GitHub](https://github.com/MadhurToshniwal)
 
 ---
